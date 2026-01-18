@@ -2,7 +2,7 @@
 
 A revamped version of the meteor ball ability that was used in Super Metroid Ancient Chozo, now playable in the vanilla game.
 
-Mod author of the original is unknown, but I wanted it to be playable in the vanilla game, and have also made the following modifications:
+Mod author of the original is unknown, but I wanted it to be playable in the vanilla game, so I reverse engineered the code and have also made the following modifications:
 
 ### Changes
 - Now propells Samus faster and further
