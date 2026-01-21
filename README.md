@@ -14,8 +14,3 @@ Mod author of the original is unknown, but I wanted it to be playable in the van
 - Can be chained into via infinite bomb jumping
 
 - Can now also be done with power bombs
-	
-### NOTE: 
-Be careful when using meteor ball in the colloseum room, as it is sometimes possible to get softlocked when landing in a particular part of the quicksand.
-
-Aside from that there should be no issues.
