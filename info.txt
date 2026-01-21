@@ -1,0 +1,23 @@
+==================================================
+Super Metroid - Meteor Ball Revamped Version 1.1
+==================================================
+Original meteor ball hack author is unknown
+Revamped version made by Kaepora Gaebora
+
+Meteor ball was an ability that was used in Super Metroid Ancient Chozo.
+Bomb jumps give Samus speed booster properties, and diagonal bomb jumps also propel Samus really far.
+The mod author of the original meteor ball hack is unknown. 
+I decided to reverse engineer the code and port meteor ball to the vanilla game and reprogram it with some changes.
+
+This revamped version comes with the following changes:
+	- Now propells Samus faster and further
+	- Speed echoes visual effect is now applied
+	- Can be triggered while Samus is in any pose
+	- Can be chained into via infinite bomb jumping
+	- Can now also be done with power bombs
+	
+Ver 1.1:
+	- Fixed the quicksand softlock. Meteor ball state is disabled when landing in quicksand.
+	
+Ver 1.0:
+	- Initial meteor ball revamped release.
